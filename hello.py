@@ -1,0 +1,1 @@
+print("Entorno Python configurado correctamente").\
